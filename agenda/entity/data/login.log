@@ -1,0 +1,12 @@
+LOG: 2019/10/25 13:07:44 login.go:58: user login
+LOG: 2019/10/25 13:07:44 login.go:76: ou Login success.
+LOG: 2019/10/25 13:08:21 logout.go:43: User logout
+LOG: 2019/10/25 19:15:36 register.go:62: Registerou6success
+LOG: 2019/10/25 19:15:36 register.go:46: register called
+LOG: 2019/10/25 19:16:39 register.go:46: register called
+LOG: 2019/10/25 19:17:45 login.go:58: user login
+LOG: 2019/10/25 19:17:45 login.go:76: ou6 Login success.
+LOG: 2019/10/25 19:18:29 login.go:58: user login
+LOG: 2019/10/25 19:18:29 login.go:62: Login failed, Already login!
+LOG: 2019/10/25 19:18:53 logout.go:43: User logout
+LOG: 2019/10/25 19:19:57 logout.go:43: User logout
